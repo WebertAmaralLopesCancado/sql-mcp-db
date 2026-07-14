@@ -1,0 +1,24 @@
+# Configuracoes locais e dados sensiveis
+appsettings.json
+
+# Configuracoes de agentes e assistentes
+.agents/
+.claude/
+
+# Artefatos de compilacao .NET
+bin/
+obj/
+
+# Arquivos locais do Visual Studio
+.vs/
+*.user
+*.suo
+
+# Saidas de testes e cobertura
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+
+# Logs
+*.log
